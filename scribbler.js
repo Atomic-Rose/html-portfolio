@@ -15,13 +15,13 @@ if (document.getElementsByClassName('demo').length > 0) {
   var txt = `./EricJuarez.ps1
   Accomplished System Administrator in multiple domains. Proven track record of success in consistently delivering exceptional results. Providing technical support, systems administration, and operations for the organization consisting of 500+ users distributed across the US, Philippines, and Mexico. Skilled in aligning end-user needs with long-term Solutions.
 
-            ###todo for new year dinner party
+            ###Degree and Certs Earned
 
-            - milk
-            - butter
-            - green onion
-            - lots and lots of kiwis 🥝`;
-  var speed = 60;
+            - AS-CYBERSECURITY
+            - Comptia A+
+            - Comptia Network +
+            - Google Cybersecurity`;
+  var speed = 30;
 
   function typeItOut () {
     if (i < txt.length) {
